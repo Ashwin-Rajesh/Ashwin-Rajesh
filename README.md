@@ -1,13 +1,20 @@
-# Hi, Im Ashwin!
-
-### What do i do?
+# Ashwin Rajesh
 
 Final year electronics and communication engineering student at GEC Thrissur
 
 I am crazy about computers and electronics. Currently working on 
 some RTL design and verfication, embedded firmware, and also some
-small projects on ML/deep learning and robotics with ROS. Overall,
-i have experience with the following software frameworks
+small projects on ML/deep learning and robotics with ROS.
+
+My experience :
+
+### Hardware design/verification
+- Verilog
+- System verilog
+- Xilinx vivado
+- symbiyosys
+
+### Software frameworks
 
 - ROS
 - FreeRTOS
@@ -17,7 +24,3 @@ i have experience with the following software frameworks
 - Segger studio (for nRF)
 - PyTorch
 - OpenCV
-
-Hardware design/verification
-- Verilog
-- cocotb
