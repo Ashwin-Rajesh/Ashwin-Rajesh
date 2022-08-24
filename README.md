@@ -1,26 +1,10 @@
 # Ashwin Rajesh
 
-Final year electronics and communication engineering student at GEC Thrissur
+I am Ashwin, a first year MTech student in *Microelectronics and VLSI Design* at *IISc, Bangalore*. 
 
-I am crazy about computers and electronics. Currently working on 
-some RTL design and verfication, embedded firmware, and also some
-small projects on ML/deep learning and robotics with ROS.
+My areas of interest are
+- Digital system design
+- Computer architecture
+- Intelligent systems
 
-My experience :
-
-### Hardware design/verification
-- Verilog
-- System verilog
-- Xilinx vivado
-- symbiyosys
-
-### Software frameworks
-
-- ROS
-- FreeRTOS
-- Zephyr RTOS
-- Arduino
-- ESP IDF
-- Segger studio (for nRF)
-- PyTorch
-- OpenCV
+I love creating random (sometimes useless) hobby projects, and this is where a lot of them reside. Reach me at my LinkedIn : https://www.linkedin.com/in/ashwinrajesh/
