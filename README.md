@@ -16,6 +16,6 @@ Alonside hardware design, I enjoy programming and creating random (sometimes use
 4) [POV display](https://github.com/Ashwin-Rajesh/POV-display)
 5) [Morse encoder](https://github.com/Ashwin-Rajesh/Morse-Sender)
 6) [GNSS and IMU sensor fusion](https://github.com/Ashwin-Rajesh/Kalman_filter_carla)
-7) [CV for lane detection](https://github.com/Ashwin-Rajesh/LaneDetection)
+7) [Lane Detection using Computer Vision](https://github.com/Ashwin-Rajesh/LaneDetection)
 
 Reach me at my LinkedIn : https://www.linkedin.com/in/ashwinrajesh/
