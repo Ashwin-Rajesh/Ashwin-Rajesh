@@ -1,6 +1,8 @@
 # Ashwin Rajesh
 
-I am Ashwin, a first year MTech student in *Microelectronics and VLSI Design* at the *Indian Institute of Science, Bangalore*, (hopefully) focused on digital hardware design and computer architecture. I document most of the work i do here. Some of my work:
+I am a first year MTech student in *Microelectronics and VLSI Design* at the *Indian Institute of Science, Bangalore*, and part of the neuronics lab at DESE. My primary interest is in hardware design and optimzation.
+
+I document most of the work i do in github, including:
 
 1) [Cordic Accelerator](https://github.com/Ashwin-Rajesh/Cordic_accelerator)
 2) [RiSC-16 CPU](https://github.com/Ashwin-Rajesh/RiSC-16)
