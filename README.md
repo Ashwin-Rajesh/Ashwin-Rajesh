@@ -1,6 +1,6 @@
 # Ashwin Rajesh
 
-I am a first year MTech student in *Microelectronics and VLSI Design* at the *Indian Institute of Science, Bangalore*, and part of the [NeuRonICs](https://labs.dese.iisc.ac.in/neuronics/) lab at DESE. My research interest is in exploring emerging paradigms in hardware and software and their fusion to build more efficient and elegant systems. My primary interest is in digital system design.
+I am a first-year MTech student in *Microelectronics and VLSI Design* at the *Indian Institute of Science, Bangalore*, and part of the [NeuRonICs](https://labs.dese.iisc.ac.in/neuronics/) lab at DESE. My research interest is in exploring emerging paradigms in hardware and software and their fusion to build more efficient and elegant systems. My primary interest is in digital system design. Currently working on the design of low-power hardware for real-time machine learning inference on the edge.
 
 ### 1) [Cordic Accelerator](https://github.com/Ashwin-Rajesh/Cordic_accelerator)
 - An AXI-Lite IP that performs the CORDIC algorithm
