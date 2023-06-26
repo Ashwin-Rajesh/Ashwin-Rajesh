@@ -2,19 +2,19 @@
 
 I am a first-year MTech student in *Microelectronics and VLSI Design* at the *Indian Institute of Science, Bangalore*, and part of the [NeuRonICs](https://labs.dese.iisc.ac.in/neuronics/) lab at DESE. My research interest is in exploring emerging paradigms in hardware and software and their fusion to build more efficient and elegant systems. My primary interest is in digital system design. Currently working on the design of low-power hardware for real-time machine learning inference on the edge.
 
-
-
-### 1) [Cordic Accelerator](https://github.com/Ashwin-Rajesh/Cordic_accelerator)
+### 1) [Microspice](https://github.com/Ashwin-Rajesh/microspice)
+- A tiny spice parser and engine written in python
+### 2) [Cordic Accelerator](https://github.com/Ashwin-Rajesh/Cordic_accelerator)
 - An AXI-Lite IP that performs the CORDIC algorithm
 - Extensive convergence and error characterization using randomized inputs
-### 2) [RiSC-16 CPU](https://github.com/Ashwin-Rajesh/RiSC-16)
+### 3) [RiSC-16 CPU](https://github.com/Ashwin-Rajesh/RiSC-16)
 - 16-bit CPU with a 4-stage pipeline
 - Random instruction generator and assembler (python)
 - Random testing for 100,000 instructions (compared with a gold standard)
-### 3) [Verilog communication protocols](https://github.com/Ashwin-Rajesh/Verilog_comm)
+### 4) [Verilog communication protocols](https://github.com/Ashwin-Rajesh/Verilog_comm)
 - SPI, I2C and UART master and slave
-### 4) [28nm CMOS Schmitt trigger](https://github.com/Ashwin-Rajesh/CMOS_Schmitt)
-### 5) [RTL design notes](https://github.com/Ashwin-Rajesh/RTL_Notes)
+### 5) [28nm CMOS Schmitt trigger](https://github.com/Ashwin-Rajesh/CMOS_Schmitt)
+### 6) [RTL design notes](https://github.com/Ashwin-Rajesh/RTL_Notes)
 - Verilog
 - System verilog
 - Formal verification with symbiyosys
