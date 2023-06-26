@@ -23,12 +23,12 @@ I am a first-year MTech student in *Microelectronics and VLSI Design* at the *In
 
 Alongside hardware design, I enjoy programming and creating random (sometimes useless) hobby projects, from Arduino to robotics and ML and this is where a lot of them reside.
 
-1) [Universal infrared remote](https://github.com/Ashwin-Rajesh/UniversalRemote_ESP32)
-2) [Stroboscopic waterfall](https://github.com/Ashwin-Rajesh/Quintessence-StroboscopicWater)
-3) [Step piano](https://github.com/Ashwin-Rajesh/Quintessence-StepPiano)
-4) [POV display](https://github.com/Ashwin-Rajesh/POV-display)
-5) [Morse encoder](https://github.com/Ashwin-Rajesh/Morse-Sender)
-6) [GNSS and IMU sensor fusion using Kalman filter](https://github.com/Ashwin-Rajesh/Kalman_filter_carla)
-7) [Lane Detection using Computer Vision](https://github.com/Ashwin-Rajesh/LaneDetection)
+1) [GNSS and IMU sensor fusion using Kalman filter (in carla)](https://github.com/Ashwin-Rajesh/Kalman_filter_carla)
+2) [Lane Detection using Computer Vision](https://github.com/Ashwin-Rajesh/LaneDetection)
+3) [Universal infrared remote](https://github.com/Ashwin-Rajesh/UniversalRemote_ESP32)
+4) [Stroboscopic waterfall](https://github.com/Ashwin-Rajesh/Quintessence-StroboscopicWater)
+5) [Step piano](https://github.com/Ashwin-Rajesh/Quintessence-StepPiano)
+6) [POV display](https://github.com/Ashwin-Rajesh/POV-display)
+7) [Morse encoder](https://github.com/Ashwin-Rajesh/Morse-Sender)
 
 Reach me at my LinkedIn : https://www.linkedin.com/in/ashwinrajesh/
