@@ -1,6 +1,6 @@
 # Ashwin Rajesh
 
-I am a first-year MTech student in *Microelectronics and VLSI Design* at the *Indian Institute of Science, Bangalore*, and part of the [NeuRonICs](https://labs.dese.iisc.ac.in/neuronics/) lab at DESE. My research interest is in exploring emerging paradigms in hardware and software and their fusion to build more efficient and elegant systems. My primary interest is in digital system design. Currently working on the design of low-power hardware for real-time machine learning inference on the edge.
+I am a first-year MTech student in *Microelectronics and VLSI Design* at the *Indian Institute of Science, Bangalore*, and part of the [NeuRonICs](https://labs.dese.iisc.ac.in/neuronics/) lab at DESE. My interests are in digital hardware design (and software co-design) for efficient computing. Currently working on the design of low-power hardware for real-time image classification inference on the edge.
 
 ### 1) [Microspice](https://github.com/Ashwin-Rajesh/microspice)
 - A tiny spice parser and engine written in python
