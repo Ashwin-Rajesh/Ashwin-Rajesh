@@ -1,6 +1,6 @@
 # Ashwin Rajesh
 
-I am a first-year MTech student in *Microelectronics and VLSI Design* at the *Indian Institute of Science, Bangalore*, and part of the [NeuRonICs](https://labs.dese.iisc.ac.in/neuronics/) lab at DESE. My interests are in digital hardware design (and software co-design) for efficient computing. Currently working on the design of low-power hardware for real-time image classification inference on the edge.
+I am a first-year MTech student in *Microelectronics and VLSI Design* at the *Indian Institute of Science, Bangalore*, and part of the [NeuRonICs](https://labs.dese.iisc.ac.in/neuronics/) lab at DESE. My interests are in digital hardware design for efficient computing. Currently working on the design of low-power hardware for real-time image classification inference on the edge.
 
 ### 1) [LifeOnChip](https://github.com/Ashwin-Rajesh/LifeOnChip)
 - 16x16 array of convay's game of life in silicon (Skywater130)
